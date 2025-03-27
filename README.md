@@ -68,3 +68,6 @@ python train_model.py
 ```
 streamlit run app.py
 ```
+
+### Live App  
+[Streamlit](https://timelyticsg-j9.streamlit.app)
