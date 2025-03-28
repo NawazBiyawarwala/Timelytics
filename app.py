@@ -19,7 +19,7 @@ distance_matrix = {
 }
 
 st.set_page_config(page_title="Timelytics", layout="wide")
-st.title("Delivery Time Predictor")
+st.title("Timelytics Predict the Delivery Time")
 
 with st.form("prediction_form"):
     col1, col2 = st.columns(2)
